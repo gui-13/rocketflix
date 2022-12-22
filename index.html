@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="shortcut icon" href="/assets/favico/favicon.ico" type="image/x-icon">
+  <title>Rocketflix</title>
+</head>
+
+<body>
+  <div class="container">
+    <header class="header">
+      <img src="/assets/shuffle.svg" alt="logo Rocketflix">
+      <h1 class="title">Não sabe o que assistir?</h1>
+    </header>
+
+    <section class="movie hide-section">
+      <h2 id="movieTitle"></h2>
+      <img id="movieImage">
+      <p id="movieDescription"></p>
+    </section>
+
+    <div class="container-btn">
+      <button id="btn">
+        <img src="/assets/shuffle.svg" alt="logo Rocketflix">
+        Encontrar filme
+      </button>
+      <p class="subtitle">Clique em "Encontrar filme" que traremos informações <br> de algum filme para você assistir hoje.</p>
+    </div>
+    <div class="where-to-watch">
+      <h2 id="title-wtw"></h2>
+      <ul id="list-provider"></ul>
+    </div>
+  </div>
+  <script type="module" src="main.js"></script>
+</body>
+
+</html>
