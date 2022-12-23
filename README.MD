@@ -18,8 +18,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Atulizando a API do
+Exibe um filme aleatório sempre que clicar no botão ENCONTRAR FILME podendo mostrar recomendações de onde assistir,
+utilizando a API do [TMDB](https://developers.themoviedb.org/3/getting-started/introduction)
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://controle-de-gastos-gui-13.vercel.app/).
+Layout base [figma](<https://www.figma.com/file/QLCZ3dCI3oLgZmrwuHzDtq/DD-%2F-Rocketflix-(Copy)?node-id=3%3A2&t=fgQnHBFtKNomO7C5-0>)
+Você pode visualizar o projeto através [DESSE LINK](https://rocketflix-ten.vercel.app/).
