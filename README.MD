@@ -24,4 +24,5 @@ utilizando a API do [TMDB](https://developers.themoviedb.org/3/getting-started/i
 ## 🔖 Layout
 
 Layout base [figma](<https://www.figma.com/file/QLCZ3dCI3oLgZmrwuHzDtq/DD-%2F-Rocketflix-(Copy)?node-id=3%3A2&t=fgQnHBFtKNomO7C5-0>)
+<br>
 Você pode visualizar o projeto através [DESSE LINK](https://rocketflix-ten.vercel.app/).
